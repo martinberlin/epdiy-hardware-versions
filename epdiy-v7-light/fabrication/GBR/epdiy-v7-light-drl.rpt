@@ -1,0 +1,32 @@
+Drill report for epdiy-v7-light.kicad_pcb
+Created on 2026-02-22T19:02:11+0100
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'epdiy-v7-light-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.254mm  0.0100"  (25 holes)
+    T2  0.400mm  0.0157"  (2 holes)  (with 2 slots)
+    T3  0.400mm  0.0157"  (220 holes)
+    T4  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T5  0.800mm  0.0315"  (8 holes)
+    T6  0.850mm  0.0335"  (2 holes)
+    T7  1.000mm  0.0394"  (6 holes)
+
+    Total plated holes count 267
+
+
+Drill file 'epdiy-v7-light-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+    T2  2.200mm  0.0866"  (4 holes)
+
+    Total unplated holes count 6
