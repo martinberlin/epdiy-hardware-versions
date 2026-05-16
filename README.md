@@ -47,6 +47,11 @@ For each board, we provide:
 - PDF Schematic
 - 3D model of the board for use in CAD
 
+## Related repositories
+
+- [Check FastJsonDL](https://github.com/martinberlin/FastJsonDL) a JSON domain language to draw GFX on displays that could be sent from a webservice or from an AI agent.
+- [vroland/epdiy](https://github.com/vroland/epdiy)
+
 ## Licensing
 
 Unless otherwise specified, the hardware sources provided are licensed under the terms of the Creative Commons Attribution-ShareAlike 4.0 International License.
