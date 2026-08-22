@@ -1,0 +1,31 @@
+Drill report for v7-raw-34.kicad_pcb
+Created on 2026-08-22T13:39:01
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'v7-raw-34-PTH-drl.gbr' contains
+    plated through holes:
+    =============================================================
+    T1  0.254mm  0.0100"  (25 holes))
+    T2  0.300mm  0.0118"  (6 holes))
+    T3  0.400mm  0.0157"  (223 holes))
+    T4  0.600mm  0.0236"  (8 holes)  (with 8 slots)
+    T5  1.000mm  0.0394"  (4 holes))
+
+    Total plated holes count 266
+
+
+Drill file 'v7-raw-34-NPTH-drl.gbr' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (4 holes))
+    T2  1.000mm  0.0394"  (2 holes))
+    T3  2.200mm  0.0866"  (4 holes))
+
+    Total unplated holes count 10
